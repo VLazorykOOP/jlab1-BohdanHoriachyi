@@ -1,8 +1,5 @@
 import java.util.Scanner;
 public class Task4 {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String inputText = scanner.nextLine();
